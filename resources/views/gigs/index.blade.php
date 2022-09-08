@@ -11,7 +11,7 @@
         @endforeach
 
         @else
-        <p>No listing found </p>
+        <p class=" min-w-full text-center text-2xl font-semibold">No listing found </p>
         @endunless
 
     </div>
